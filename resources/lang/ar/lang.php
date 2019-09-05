@@ -1,0 +1,70 @@
+<?php
+
+return array(
+	'home'=> 'الرئيسية',
+	'languages'=>'اللغات',
+	'Orders'=>'الطلبات',
+	'Order'=>'طلب',
+	'Offers'=>'عروض',
+	'Offer'=>'عرض',
+	'Clients'=>'عملاء',
+	'Client'=>'عميل',
+	'Restaurant'=>'مطعم',
+	'Restaurants'=>'مطاعم',
+	'Products'=>'منتجات',
+	'Product'=>'منتج',
+	'Settings'=>'إعدادات',
+	'Cities'=>'مدن',
+	'City'=>'مدينة',
+	'Districts'=>'احياء',
+	'District'=>'حي',
+	'Categoires'=>'تصنيفات',
+	'Category'=>'تصنيف',
+	'Address'=>'عنزان',
+	'additional_cost'=>'قيمة مضافة',
+	'payment'=>'طريقة الدفع',
+	'Rstatus'=>'حرد المطعم',
+	'Cstatus'=>'رد العميل',
+	'notes'=>'ملحوظات',
+	'Commission'=>'العمولة',
+	'image'=>'صورة',
+	'description'=>'نعلونات',
+	'start'=>'بداية',
+	'end'=>'نهاية',
+	'name'=>'الاسم',
+	'email'=>'الحساب الالكتروني',
+	'phone'=>'الرقم',
+	'minimum_charge'=>'اقل قيمة',
+	'delivery'=>'تكلفة التوصيل',
+	'whatsapp'=>'الواتس اب',
+	'status'=>'الحالة',
+	'activated'=>'مفعل',
+	'Operation'=>'العمليات',
+	'item'=>'منتج',
+	'items'=>'منتجات',
+	'about'=>'معلومات عن',
+	'commission_details'=>'تفاصيل العمولة',
+	'facebook'=>'فيسبوك',
+	'edit'=>'تعديل',
+	'Add'=>'اضافة',
+	'Delete'=>'مسح',
+	'roles'=>'رتب',
+	'role'=>'رتبة',
+	'user'=>'المستخدم',
+	'users'=>'المستخدمين',
+	'permissions'=>'تصريحات',
+	'permission'=>'تصريح',
+	'Date/Time Added'=>'تاريخ ووقت الاضافة',
+	'Administration'=>'ادارة',
+	'Available'=>'المتاحة',
+	'paid'=>'مدفوع',
+
+);
+
+
+
+
+
+
+
+?>
