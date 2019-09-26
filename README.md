@@ -19,3 +19,12 @@ packages used in this app:
 mcamara / laravel-localization.
 
 spatie/laravel-permission.
+
+
+Sections Of Project:
+
+admin-panal to mange the app.
+
+RESTFul API system for users donators.
+
+website for clients.
